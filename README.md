@@ -7,3 +7,4 @@ https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/
 https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/Task_2_A-B_test.ipynb
 
 3. Task_3_Metrics.
+https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/Task_3_Metrics.ipynb
