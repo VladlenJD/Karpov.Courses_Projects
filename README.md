@@ -21,3 +21,4 @@ https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/
 https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/GroceryStore/Task_2_Prophet.ipynb
 
 3. Task_3_SQL.
+https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/GroceryStore/Task_3_SQL.ipynb
