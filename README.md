@@ -18,3 +18,6 @@ GroceryStore:
 https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/GroceryStore/Task_1_Occurrence.ipynb
 
 2. Task_2_Prophet.
+https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/GroceryStore/Task_2_Prophet.ipynb
+
+3. Task_3_SQL.
