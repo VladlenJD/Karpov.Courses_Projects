@@ -12,7 +12,7 @@ https://nbviewer.jupyter.org/gist/VladlenJD/e56d0a1bcbdb5b5484a168306dfa8a2f
 
 3. Task_3_Metrics. 
 I offer my metrics for assessing events in the game.
-https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/Task_3_Metrics.ipynb
+https://nbviewer.jupyter.org/gist/VladlenJD/507c35ca4b39bae6a7b6a1e2a85cc1dd
 
 
 GroceryStore:
