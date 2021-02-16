@@ -4,7 +4,7 @@ MobileApp:
 
 1. Task_1_Retention. 
 Writing functions for calculating and visualizing metrics Retention and Rolling Retention.
-https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/Task_1_Retention.ipynb
+https://nbviewer.jupyter.org/gist/VladlenJD/15fedf3b9c9142dbbdd56872c07ce91e
 
 2. Task_2_A/B-test. 
 The A/B-test was carried out. We check its correctness and draw conclusions.
