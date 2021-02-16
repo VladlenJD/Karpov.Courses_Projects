@@ -23,7 +23,7 @@ https://nbviewer.jupyter.org/gist/VladlenJD/3e0af138d6007f6827cb355c5fa6bcb6
 
 2. Task_2_Prophet. 
 We predict the number of orders for 3 months.
-https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/GroceryStore/Task_2_Prophet.ipynb
+https://nbviewer.jupyter.org/gist/VladlenJD/6799643f6723a16be9aa565f2236f432
 
 3. Task_3_SQL. 
 https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/GroceryStore/Task_3_SQL.ipynb
