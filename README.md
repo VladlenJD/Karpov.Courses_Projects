@@ -19,7 +19,7 @@ GroceryStore:
 
 1. Task_1_Occurence. 
 We count the occurrence of product pairs to optimize the display of goods.
-https://nbviewer.jupyter.org/github/VladlenJD/Karpov.Courses_Projects/blob/main/GroceryStore/Task_1_Occurrence.ipynb
+https://nbviewer.jupyter.org/gist/VladlenJD/3e0af138d6007f6827cb355c5fa6bcb6
 
 2. Task_2_Prophet. 
 We predict the number of orders for 3 months.
