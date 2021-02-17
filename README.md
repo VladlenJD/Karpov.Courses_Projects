@@ -23,7 +23,7 @@ https://nbviewer.jupyter.org/gist/VladlenJD/3e0af138d6007f6827cb355c5fa6bcb6
 
 2. Task_2_Prophet. 
 We predict the number of orders for 3 months.
-https://nbviewer.jupyter.org/gist/VladlenJD/6799643f6723a16be9aa565f2236f432
+https://nbviewer.jupyter.org/gist/VladlenJD/99315b687d5cc78926dc88ee09da9863
 
 3. Task_3_SQL. 
 https://nbviewer.jupyter.org/gist/VladlenJD/7caf6ef396156996bd1e66a6ea184940
